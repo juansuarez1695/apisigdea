@@ -6,10 +6,10 @@ const dbSettings = {
     password:'PazSalvos2022',
     server:"172.16.9.173",
     database:"esignacap",
-    options: {
-        encrypt: true, 
-        trustServerCertificate: true 
-      }
+    //options: {
+        //encrypt: true, 
+        //trustServerCertificate: true 
+      //}
 }
 
 
