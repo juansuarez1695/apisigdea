@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'as-pazysalvos'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_142EFB1EE08D455E82AD3CDD95E66366 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6DB0BD925E2E49A8AF3D974B5795A885 }}
           package: .
