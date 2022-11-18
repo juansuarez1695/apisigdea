@@ -7,8 +7,8 @@ const dbSettings = {
     server:"172.16.9.173",
     database:"esignacap",
     options: {
-        encrypt: true, 
-        trustServerCertificate: true 
+        encrypt: false, 
+        trustServerCertificate: false 
       }
 }
 
