@@ -4,7 +4,7 @@ const sql = require('mssql');
 const dbSettings = {
     user:'pazysalvospgn',
     password:'PazSalvos2022',
-    server:"172.16.9.173",
+    server:"gnsigdeabdcd.procuraduria.gov.co",
     database:"esignacap",
     options: {
         encrypt: false, 
